@@ -1,0 +1,1 @@
+{"name":"Local: mocha and math","url":"e:\\my programs\\html 2\\c++\\cp-31(900)\\mocha and math.cpp","tests":[{"id":1745608508047,"input":"4\n2\n1 2\n3\n1 1 3\n4\n3 11 3 7\n5\n11 7 15 3 7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programs\\html 2\\c++\\cp-31(900)\\mocha and math.cpp","group":"local","local":true}
