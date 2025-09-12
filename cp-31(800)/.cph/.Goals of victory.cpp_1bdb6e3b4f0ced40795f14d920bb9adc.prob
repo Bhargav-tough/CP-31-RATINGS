@@ -1,0 +1,1 @@
+{"name":"Local: Goals of victory","url":"e:\\my programs\\html 2\\c++\\cp-31(800)\\Goals of victory.cpp","tests":[{"id":1736598971467,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0\n","output":"-4\n265"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programs\\html 2\\c++\\cp-31(800)\\Goals of victory.cpp","group":"local","local":true}

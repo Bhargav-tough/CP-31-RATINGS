@@ -1,0 +1,1 @@
+{"name":"Local: CODEA","url":"e:\\my programs\\html 2\\c++\\cp-31(1000)\\CODEA.cpp","tests":[{"id":1748702866824,"input":"3\n3\n0 2 1\n1 2 0\n5\n0 1 2 3 4\n4 3 2 1 0\n10\n5 8 9 3 4 0 2 7 1 6\n9 5 1 4 0 3 2 8 7 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programs\\html 2\\c++\\cp-31(1000)\\CODEA.cpp","group":"local","local":true}

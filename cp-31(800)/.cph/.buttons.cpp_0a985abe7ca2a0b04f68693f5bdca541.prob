@@ -1,0 +1,1 @@
+{"name":"Local: buttons","url":"e:\\my programs\\html 2\\c++\\cp-31(800)\\buttons.cpp","tests":[{"id":1736789578445,"input":"5\n1 1 1\n9 3 3\n1 2 3\n6 6 9\n2 2 8\n","output":"First\nFirst\nSecond\nFirst\nSecond\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programs\\html 2\\c++\\cp-31(800)\\buttons.cpp","group":"local","local":true}
