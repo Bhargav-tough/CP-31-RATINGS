@@ -24,6 +24,6 @@ int main() {
         }
 
         total += r * rem;
-        cout << total << '\n';
+        cout << total << endl;
     }
 }
